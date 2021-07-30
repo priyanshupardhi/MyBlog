@@ -1,2 +1,3 @@
-# MyBlog
-A personal blog website for personal use
+# #100DaysOfCodes
+
+Documenting my journey of #100DaysOfCode here.
